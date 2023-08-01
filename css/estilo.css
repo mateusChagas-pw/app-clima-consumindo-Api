@@ -44,12 +44,38 @@ button {
     float: right;
 }
 
+.img-busca {
+    width: 22px;
+}
+
 .box2 {
     margin-top: 30px;
 }
 
+.cidade {
+    color: #fff;
+    font-size: 28px;
+    font-weight: 300;
+}
+
+.C {
+    font-size: 20px;
+    color: #fff;
+    margin-top: 20px;
+}
 .box3 {
     display: flex;
     align-items: center;
+    margin-top: 20px;
+}
+
+.tempo-previsao {
+    color: #fff;
+    margin-left: 20px;
+    text-transform: capitalize;
+}
+
+.umidade {
+    color: #fff;
     margin-top: 20px;
 }
